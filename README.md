@@ -14,8 +14,9 @@ N/A
 
 ## Usage
 
+The link provided will send users to the application where the user can start organizing their day-to-day workflow. 
+
 [Password-Generator](https://albyhua.github.io/Work-Day-To-Do-List/)
-The link provided will send users to the application where the user can start organizing their day-to-day work flow. 
 
 ## Credits
 
